@@ -7,3 +7,6 @@ matplotlib
 seaborn
 plotly
 jupyterlab
+requests
+beautifulsoup4
+fake-useragent
