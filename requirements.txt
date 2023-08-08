@@ -10,3 +10,5 @@ jupyterlab
 requests
 beautifulsoup4
 fake-useragent
+scrapy
+lxml
