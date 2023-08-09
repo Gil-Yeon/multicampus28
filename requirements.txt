@@ -9,6 +9,8 @@ plotly
 jupyterlab
 requests
 beautifulsoup4
-fake-useragent
-scrapy
 lxml
+scrapy
+scipy
+statsmodels
+fake-useragent
